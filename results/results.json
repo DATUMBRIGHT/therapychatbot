@@ -1,0 +1,20 @@
+{
+  "bleu_score": 0.8746382786428398,
+  "predictions_df": {
+    "sentence_1": [
+      "This is a great sentence with good quality."
+    ],
+    "sentence_2": [
+      "The model generated this output with high accuracy."
+    ],
+    "sentence_3": [
+      "Wonderful prediction from the text generation model."
+    ],
+    "sentence_4": [
+      "Impressive performance on the evaluation dataset."
+    ],
+    "sentence_5": [
+      "Highly accurate and coherent text produced by the model."
+    ]
+  }
+}

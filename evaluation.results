@@ -1,0 +1,14 @@
+{
+    "generation_metrics": {
+        "perplexity": 62.72367858886719,
+        "generation_length": 9.0
+    },
+    "text_quality_metrics": {
+        "unique_words_ratio": 0.8666666666666667,
+        "avg_word_length": 3.8333333333333335
+    },
+    "comparison_metrics": {
+        "exact_match": 0.0,
+        "similarity_score": 0.22376543209876543
+    }
+}
